@@ -1,0 +1,8 @@
+aws:
+  access_key_id: 'xxxxxxxxxxxxxxxxxxxxxxxx'
+  secret_access_key: 'xxxxxxxxxxxxxxxxx'
+  region: 'us-east-1'
+
+chatwork:
+  api_key: 'xxxxxxxxxxxxxxxxxxx'
+  room_id: 'xxxxxxxx'
